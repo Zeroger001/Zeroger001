@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Stefan 👋
 
-<!--
-**Zeroger001/Zeroger001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web Developer focused on **JavaScript, HTML and CSS**.
 
-Here are some ideas to get you started:
+I enjoy building **interactive web applications and browser games** and continuously improving my frontend development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🧭 Pokédex App
+Interactive Pokédex web application built with JavaScript and the PokéAPI.
+
+🔗 Live Demo  
+https://zeroger001.github.io/pokedex-app/
+![Pokedex Preview](https://github.com/Zeroger001/pokedex-app/blob/main/assets/pokedex-preview.png)
+---
+
+### 🐔 El Pollo Loco
+2D jump-and-run browser game built with JavaScript and Canvas.
+
+🔗 Live Demo  
+https://zeroger001.github.io/El-pollo-loco/
+
+---
+
+## 🛠 Tech Stack
+
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Canvas API
+- REST APIs
+- Git & GitHub
+
+---
+
+## 📫 Contact
+
+GitHub:  
+https://github.com/Zeroger001
