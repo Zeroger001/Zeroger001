@@ -21,7 +21,7 @@ https://zeroger001.github.io/pokedex-app/
 
 🔗 Live Demo  
 https://zeroger001.github.io/El-pollo-loco/
-![El Pollo Loco Screenshot](assets/el-pollo-loco-preview.png)
+![El Pollo Loco Screenshot](https://github.com/Zeroger001/El-pollo-loco/blob/main/assets/el-pollo-loco-preview.png)
 
 ---
 
